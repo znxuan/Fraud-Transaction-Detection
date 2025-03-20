@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to detect fraudulent transactions using machine learning models. The dataset contains transaction details, and the goal is to build a robust classifier to distinguish between fraudulent and legitimate transactions. The model achieve an accuracy of 98%.
+This project aims to detect fraudulent transactions using machine learning models. The dataset contains transaction details, and the goal is to build a robust classifier to distinguish between fraudulent and legitimate transactions. The first part of the project is done using Google BigQuery Sandbox and the second part is done using Google Colab. The model achieve an accuracy of 98%.
 
 ## 🚀 Tech Stack
 
