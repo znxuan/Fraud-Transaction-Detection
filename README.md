@@ -1,4 +1,4 @@
-# FraudTransactionDetection
+# Fraud-Transaction-Detection
 
 ## Overview
 
@@ -28,7 +28,7 @@ Various algorithms like Logistic Regression, Random Forest, XGBoost, and Deep Le
 
 Clone the repository:
 ```bash
-git clone https://github.com/znxuan/FraudTransactionDetection.git
+git clone https://github.com/znxuan/Fraud-Transaction-Detection.git
 cd FraudTransactionDetection
 ```
 
