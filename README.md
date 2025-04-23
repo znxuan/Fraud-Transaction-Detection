@@ -17,7 +17,7 @@ This project aims to detect fraudulent transactions using machine learning model
 ## Dataset 📂
 
 The dataset is available in [📂 Dataset on Google Drive](https://drive.google.com/drive/folders/1KNnWTpAPuAiXIXGIY9bbYlrierdvJbc9)
-Please download and place it in the appropriate directory before running the scripts.
+Please download and place it in the appropriate directory before running the scripts for running read dataset from drive after Feature Engineering and onwards.
 
 ## Model Training & Evaluation 📊
 
